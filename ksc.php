@@ -3,7 +3,7 @@
 /*
  * Plugin Name: Kubee Security Pro
  * Plugin URI: https://github.com/KubeeCMS/ksc/
- * Description: Take the guesswork out of WordPress security. iThemes Security offers 30+ ways to lock down WordPress in an easy-to-use WordPress security plugin.
+ * Description: Take the guesswork out of WordPress security.
  * Author: Kubee
  * Author URI: https://github.com/KubeeCMS/
  * Version: 6.8.3
